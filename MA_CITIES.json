@@ -6,6 +6,24 @@
         "name": "Casablanca"
   },
   {
+        "key": "MA",
+        "latitude": 31.62947,
+        "longitude": -7.583331,
+        "name": "Marrakech"
+  },
+  {
+        "key": "EJ",
+        "latitude": 33.23163,
+        "longitude": -8.50071,
+        "name": "El Jadida"
+  },
+  {
+        "key": "TG",
+        "latitude": 33.23163,
+        "longitude": -8.50071,
+        "name": "Tangier"
+  },
+  {
         "key": "RB",
         "latitude": 33.97159,
         "longitude": -6.84981,
