@@ -6,6 +6,18 @@
         "name": "Casablanca"
   },
   {
+        "key": "OJ",
+        "latitude": 34.689404,
+        "longitude": -1.912823,
+        "name": "Oujda"
+  },
+  {
+        "key": "BK",
+        "latitude": 34.921410,
+        "longitude": -2.324295,
+        "name": "Berkane"
+  },
+  {
         "key": "MA",
         "latitude": 31.62947,
         "longitude": -7.583331,
